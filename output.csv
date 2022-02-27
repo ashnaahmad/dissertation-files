@@ -1,0 +1,1004 @@
+"sentence",peripheral dependency,longest
+"the tired aunt throws a soft ball to the sad hostess from a tall host and the girl  ",obl,y
+"a busy aunt throws the hard pen to the busy aunt from a short brother and a man  ",obl,y
+"the focused aunt throws a small pen to the kind man from a calm grandmother and a grandmother  ",obl,y
+"the calm aunt has more_often kicked a small ball  ",peripheral dependency,n
+"a tall woman has more_often kicked the soft ball  ",advmod,n
+"a calm boy has still kicked a large ball  ",advmod,n
+"the calm uncle has more_often kicked the small ball  ",advmod,n
+"the tall gentleman gives a woman's ball to the focused mother  ",obl,n
+"a kind grandmother throws a small and soft ball to the grandfather  ",obl,n
+"the tall father gives the small ball to the happy girl  ",obl,y
+"the kind mother throws the soft ball to the calm girl  ",obl,y
+"the kind grandfather gives a grandfather's ball to a calm lady  ",obl,y
+"the focused boy gives a large and large ball to the cat  ",obl,y
+"the focused host gives the aunt's ball to a short gentleman  ",obl,y
+"the happy mother gives the small ball to the dog's cat  ",obl,y
+"a focused man gives the hard ball to the tall brother  ",obl,y
+"a tall father shows the large ball to a busy mother  ",obl,y
+"the busy hostess shows the soft ball to a sad woman  ",obl,y
+"a short waiter throws the large ball to a woman's mother  ",obl,y
+"the tired gentleman shows a hard ball to a tired boy  ",obl,y
+"a kind dog shows a host's ball to the sad hostess  ",obl,n
+"a calm gentleman shows the hard ball to the busy dog  ",obl,y
+"a sad uncle gives a small and small ball to a host  ",obl,n
+"the intelligent grandmother gives a large ball to the grandfather's uncle  ",obl,n
+"a short girl gives a hard and soft ball to the dog  ",obl,n
+"a intelligent grandfather shows a hard ball to the lady's grandfather  ",obl,y
+"the calm waiter gives a hostess's ball to a short cat  ",obl,y
+"the kind hostess shows the gentleman's ball to the kind waiter  ",obl,y
+"the busy hostess throws a soft ball to a tall woman  ",obl,y
+"a tired father shows a small ball to the busy uncle  ",obl,y
+"the tired host throws the soft ball to a gentleman's sister  ",obl,y
+"the busy grandfather gives the large ball to the tall lady  ",obl,y
+"a tired cat that is tired has pushed book  ",obj,n
+"a short lady that is short has carried the chair  ",obj,n
+"the happy gentleman that is calm has still pushed the key  ",obj,n
+"the short grandfather that is tall has pushed the toy  ",obj,n
+"the sad boy that is intelligent has kicked the pen still",obj,n
+"the tall mother that is short has pushed the chair  ",obj,n
+"the tall girl that is tired has kicked the chair  ",obj,n
+"a short uncle that is calm has kicked the pen more_often ",advmod,n
+"the busy host that is focused has carried book  ",obj,n
+"a intelligent dog that is focused has carried ball  ",obj,n
+"a tall mother that is tall has carried toy  ",obj,n
+"a focused aunt that is kind has pushed the chair  ",obj,n
+"a busy cat that is short has carried the key  ",obj,n
+"a intelligent dog that is intelligent has kicked the toy  ",obj,n
+"a tired mother that is short has for_many_years carried the chair  ",obj,n
+"the short grandfather that is calm has kicked the toy  ",obj,n
+"a tall aunt that is short has pushed the chair  ",obj,n
+"the tall father that is tall has pushed the book  ",obj,n
+"a short lady that is intelligent has pushed the pen  ",obj,n
+"the tired lady that is calm has for_many_years pushed the book  ",advmod,n
+"a tall aunt that is calm has kicked the ball  ",obj,n
+"the happy mother that is short has carried the book  ",obj,n
+"the short brother that is still calm has pushed the pen  ",obj,n
+"a calm lady that is calm has pushed the pen more_often",obj,n
+"a sad brother that is focused has kicked the pen  ",obj,n
+"a intelligent uncle that is tired has carried the chair  ",obj,n
+"the calm boy that is sad has kicked the pen  ",obj,n
+"the tired father has more_often pushed a hard book  ",advmod,n
+"the tall grandfather has more_often carried the small book  ",advmod,n
+"a calm woman throws a soft book to a calm brother  ",obl,y
+"a tired father gives the small and soft book to a brother  ",obl,n
+"a focused woman shows the soft book to the boy's aunt  ",nmod,n
+"a short mother shows a large book to the focused boy  ",obl,y
+"a short aunt shows the hard and small book to a lady  ",obl,n
+"a tall sister gives a grandfather's book to the tired mother  ",obl,y
+"a short aunt gives the large book to a sad dog  ",obl,y
+"a busy grandmother gives a large book to the woman's mother  ",nmod,y
+"the happy man shows the large book to the uncle's grandmother  ",obl,y
+"a busy waitress throws a soft book to the tall cat  ",obl,y
+"the short sister shows a soft and soft book to the uncle  ",obl,y
+"a tired grandmother throws the large book to the focused cat  ",obl,y
+"a tall hostess throws a man's book to the focused grandmother  ",obl,y
+"the sad dog throws a gentleman's book to the happy dog  ",obl,y
+"the kind grandmother shows a brother's book to a focused woman  ",obl,y
+"the kind brother gives a small toy to a short waitress from a sad uncle and a girl  ",obl,y
+"a busy uncle gives the short and busy waiter the pen  ",obj,n
+"a busy girl shows a focused cat of the boy that is tired the large ball  ",obj,n
+"the busy mother throws a tired gentleman a soft toy of a dog that is focused  ",nmod,y
+"the busy brother throws the focused mother of the waitress that is focused a hard book  ",obj,y
+"the tall gentleman gives the waitress's busy aunt the small book  ",obj,n
+"the calm sister gives the busy and busy waiter the toy  ",obj,n
+"the kind woman shows the mother's busy host a hard toy  ",obj,n
+"a busy brother gives the tall cat a soft key of a hostess that is calm  ",nmod,y
+"a busy hostess gives the small toy to the busy aunt of a host that is kind ",nmod,y
+"the busy waiter gives the soft chair to the focused brother of the girl that is busy  ",nmod,y
+"the busy girl gives pen of the busy cat that is busy to a tired lady  ",obl,n
+"the busy father shows the intelligent aunt a small ball of a host that is intelligent  ",nmod,y
+"a short aunt shows the chair to the intelligent and busy host ",obl,y
+"a busy hostess throws a hard pen to the tired father of the dog that is short ",nmod,y
+"the kind sister gives a boy's busy aunt a hard ball  ",obj,n
+"a busy waiter shows the tired mother a soft ball of a grandfather that is tall  ",nmod,y
+"the intelligent waiter gives a pen to the busy and focused man  ",obl,y
+"the busy waiter shows toy of the sad woman that is tired to a busy uncle  ",obl,y
+"the sad brother throws a pen to a busy waitress and the sister  ",obl,y
+"a busy lady gives a large chair to focused father of a man that is happy  ",obl,y
+"a busy cat throws the sad grandmother the small pen of the girl that is short  ",nmod,y
+"the busy dog throws the sister's busy dog the soft chair  ",obj,n
+"the kind host throws a toy to a busy boy and the hostess  ",obl,y
+"the busy waitress throws the large ball to short dog of the brother that is busy  ",nmod,y
+"the short gentleman shows the toy to the busy and sad girl  ",obl,y
+"a busy grandmother gives key of a tired boy that is short to a calm gentleman  ",obl,n
+"the calm girl shows the toy to the busy brother and the uncle  ",obl,y
+"the busy brother shows toy of a focused gentleman that is short to the sad lady  ",obl,n
+"the kind host gives a toy to a busy and busy grandmother  ",obl,y
+"the busy lady gives a pen to a busy grandmother  ",obl,y
+"the tall host shows the man's busy grandfather a hard chair  ",obj,n
+"the busy hostess shows the small chair to focused waitress of the mother that is busy  ",nmod,y
+"a tall lady gives a chair to the busy grandfather and a woman  ",nmod,y
+"a busy boy throws the small pen to kind dog of the gentleman that is short  ",nmod,y
+"the tired girl throws a chair to the busy and busy boy  ",obl,y
+"a calm hostess gives the book to the busy boy  ",obl,y
+"the tired aunt throws the key to a busy and short host  ",obl,y
+"a calm boy gives the small key to tall waitress of the waiter that is short  ",nmod,y
+"a kind girl gives a chair to a calm and sad uncle  ",obl,y
+"the calm gentleman shows the tall boy a hard book of a host that is busy  ",nmod,y
+"a tall boy shows a girl's calm host a large pen  ",obj,n
+"a happy man throws a sister's calm grandmother the hard pen  ",obj,n
+"the sad host gives a ball to the calm host and a waiter  ",obl,y
+"the calm cat shows chair of the short waitress that is busy to a focused uncle  ",obl,n
+"the calm waitress throws ball of a intelligent waiter that is focused to a tall man  ",obl,n
+"the calm brother throws the tall grandmother a large chair of a boy that is focused  ",nmod,y
+"a sad hostess throws a book to the calm waiter  ",obl,y
+"the calm waitress shows a happy sister the hard pen of the mother that is intelligent  ",nmod,y
+"the calm hostess throws pen of a tired hostess that is busy to the tired aunt  ",obl,n
+"the tall woman gives the busy and calm dog the book  ",obj,n
+"a calm woman throws pen of a short dog that is tired to a busy grandmother  ",obl,n
+"the calm waitress throws a hard toy to calm brother of the grandfather that is busy  ",nmod,y
+"the busy woman throws a chair to a calm and tired gentleman  ",obl,y
+"the tired woman gives a toy to the calm and short sister  ",obl,y
+"the focused mother shows the man's calm dog a small key  ",obj,n
+"a calm hostess gives the large ball to calm grandfather of a cat that is tall  ",nmod,y
+"a calm girl gives the boy's calm cat a soft chair  ",obj,n
+"a tired grandfather gives the toy to the calm mother and the grandfather  ",obl,y
+"a calm aunt shows the kind woman the large ball of a sister that is tired  ",nmod,y
+"the short mother shows the pen to a calm brother and the waitress  ",obl,y
+"a short mother gives a calm and calm grandmother the book  ",obj,n
+"a short girl gives a calm and calm father the book  ",obj,n
+"a calm grandmother throws a soft pen to short aunt of a grandfather that is calm  ",nmod,y
+"the tall uncle throws a book to a calm lady  ",obl,y
+"a calm grandmother throws a soft pen to the busy father of a lady that is tired ",obl,y
+"a calm grandmother throws a tired lady the hard key of a waitress that is tired  ",nmod,y
+"a calm uncle shows a focused hostess a soft book of a grandfather that is tall  ",nmod,y
+"a calm woman throws key of a calm dog that is calm to the tired gentleman  ",obl,y
+"a calm aunt throws a pen to a calm man  ",obl,y
+"the calm host gives the hard toy to focused dog of the father that is busy  ",nmod,y
+"a calm uncle throws pen of the sad woman that is short to the sad uncle  ",obl,y
+"a sad host throws a ball to a calm uncle  ",obl,y
+"a busy cat throws the large toy to the tall uncle from the short host and the boy  ",obl,y
+"a intelligent host has for_many_years carried a small chair  ",advmod,n
+"a tired father gives the girl's chair to the focused boy  ",obl,y
+"the short father gives a large chair to the father's grandmother  ",obl,y
+"a busy boy throws the soft and small chair to a gentleman  ",obl,n
+"the tired lady gives a large chair to a aunt's waitress  ",obl,y
+"the tired grandfather shows a mother's chair to the tall waitress  ",obl,y
+"the tired woman gives a large and small chair to the dog  ",obl,n
+"a focused hostess gives the hard and soft chair to the brother  ",obl,n
+"a busy hostess throws the small and hard chair to a boy  ",obl,n
+"a busy dog shows the large chair to a woman's grandfather  ",obl,y
+"the tired waiter gives a large and soft chair to a mother  ",obl,n
+"a tired hostess shows a small and small chair to a cat  ",obl,n
+"the busy girl shows the small chair to a busy father  ",obl,y
+"a tall dog gives a large chair to a calm waiter  ",obl,y
+"a calm woman shows the brother's chair to a calm hostess  ",obl,y
+"a tired grandmother gives a soft chair to a tall uncle  ",obl,y
+"the tired hostess gives the father's chair to a calm mother  ",obl,y
+"a tired woman shows a lady's chair to the short grandfather  ",obl,y
+"a sad man gives the brother's chair to the short hostess  ",obl,y
+"a busy cat gives the small and large chair to a grandmother  ",obl,n
+"a focused aunt shows a hostess's chair to the calm sister  ",obl,y
+"the happy hostess shows the small chair to a girl's mother  ",obl,y
+"a sad grandfather throws the host's soft ball to a short brother  ",obl,n
+"a calm lady shows the tired gentleman the hard key of the host  ",nmod,n
+"a tired aunt shows the small chair to a busy aunt from the short mother  ",obl,y
+"the busy boy throws a large ball to the man's busy and tired cat",obl,y
+"the busy woman gives the hard pen from a grandfather to the busy waitress  ",obl,y
+"the busy mother shows the gentleman's tired aunt the small book  ",obj,n
+"a tall woman gives the small toy to the calm uncle from a tired girl  ",obl,y
+"the tall waiter throws a small pen and the book to the man  ",obl,n
+"a busy sister gives a soft pen to the calm dog of the uncle",nmod,n
+"the calm grandfather throws a host a hard chair and the toy ",obj,y
+"a busy boy gives the large toy to the hostess's busy and calm dog  ",obl,y
+"the focused cat gives the soft ball to the calm girl from the cat  ",obl,y
+"a tired girl gives the uncle's large chair to the tired hostess  ",obl,y
+"the focused mother shows the soft chair to the boy's tired waiter  ",obl,y
+"a intelligent father throws a soft book to the hostess  ",obl,n
+"a busy aunt shows the book of the father to a tired sister  ",obl,y
+"the tall aunt shows the small pen to a boy from a short uncle  ",obl,y
+"a tired waitress gives the tall host the soft book of the gentleman  ",nmod,n
+"a short uncle throws the calm host the soft book of the man  ",nmod,n
+"the short father shows the large toy from a girl to a happy hostess  ",obl,y
+"the happy boy throws the small ball to a cat's tired and calm waiter  ",nmod,y
+"a tired woman throws the soft chair to a tall aunt from a waiter  ",obl,y
+"a focused host shows the soft key to a mother's sad uncle  ",nmod,y
+"the short uncle shows the short girl a boy's hard pen  ",nmod,y
+"a sad father gives the tired waiter of a sister a small pen  ",obj,n
+"the focused dog gives the host's large key to the short lady  ",obl,n
+"a tired brother throws the brother's tired hostess a small pen  ",obj,n
+"a calm aunt throws the large book from the woman to a tall uncle  ",obl,y
+"the intelligent aunt shows the large chair from a gentleman to a sad man  ",obl,y
+"the short waiter shows the soft chair to the kind sister of the host  ",nmod,n
+"the busy grandmother shows the large pen and a book to the woman",obl,n
+"the focused father shows the mother's small pen to a calm girl  ",obl,n
+"the kind boy shows the small book to a dog's happy and calm father  ",obl,y
+"a calm aunt shows a large toy to the grandmother  ",obl,n
+"the tired waitress gives the hard key to the calm waitress of a grandfather",nmod,n
+"a short girl shows the large chair to the busy brother of the woman  ",nmod,n
+"a happy dog gives the small book to a host's sad waiter  ",nmod,y
+"the focused sister throws the short boy a soft toy of the cat  ",nmod,n
+"a tall aunt throws a soft pen to the tired dog of the boy ",nmod,n
+"a busy gentleman shows the hard toy to the mother  ",obl,n
+"the tall gentleman throws the hard ball to the kind mother of a gentleman  ",nmod,n
+"a tall father throws the large toy from the dog to a busy uncle  ",obl,y
+"a calm brother gives the man's large ball to a focused host  ",obl,n
+"a tall host throws the ball of the waiter to a kind lady  ",obl,y
+"a short dog shows the hard toy to a focused waitress from a tall waitress  ",obl,y
+"a tall waitress throws the soft book to the dog's short sister  ",nmod,y
+"the tired sister throws the soft pen to short uncle of the lady  ",nmod,n
+"a tall girl shows a hard book to the tall aunt of the grandmother",nmod,n
+"the tall grandmother throws the large ball from a hostess to a short brother  ",obl,y
+"a tired mother shows the soft ball to the aunt's sad and intelligent uncle  ",obl,y
+"the focused waitress shows the hard ball to a woman's busy and sad brother  ",obl,y
+"a tall cat shows the small book to a tired father from a focused sister  ",obl,y
+"the short host shows the large chair to the calm waiter of the sister",nmod,n
+"the focused gentleman shows the small chair to a busy uncle from a girl  ",obl,y
+"a calm sister gives the large book and the book to the cat  ",obl,n
+"a tired hostess gives the tired cat of the man the large key  ",obj,n
+"a calm lady gives a soft toy and the chair to a lady  ",obl,n
+"the calm aunt gives the calm waiter of the mother the small book  ",obj,n
+"a tired waitress throws the short man the dog's large chair  ",nmod,y
+"a kind mother throws the small pen to the father's tall father  ",obl,y
+"a tall sister gives a soft toy to the father  ",obl,n
+"the short brother shows the large book to the waitress from the happy grandfather  ",obl,y
+"a kind waiter throws the hard toy to the mother's happy sister",nmod,y
+"the short grandmother shows the waiter's soft pen to the happy uncle  ",obl,n
+"a tall host shows the small book to the mother's calm mother  ",nmod,y
+"the focused hostess shows the soft toy from the waiter to the tired waiter  ",obl,y
+"a intelligent aunt shows the large chair to a mother's focused and tired mother  ",obl,y
+"the happy father shows the large chair to short sister of a uncle  ",nmod,n
+"the focused man gives the large key to the father's tall sister",obl,y
+"a focused waiter gives the large ball from a aunt to the tall uncle  ",obl,y
+"a calm host throws the boy the hard key  ",obj,n
+"the sad grandmother shows the large key to the intelligent man from a calm grandfather  ",obl,y
+"the busy cat shows the large pen to a waitress's happy and tired mother  ",obl,y
+"a focused brother gives the large book to the cat's calm and calm father ",nmod,y
+"the intelligent hostess gives the happy woman a host's hard ball  ",nmod,y
+"a short brother throws the small ball to the woman's tall dog  ",obl,y
+"the calm aunt shows the small book to the woman's busy and happy mother",obj,y
+"the calm man gives the intelligent host the sister's large book  ",nmod,y
+"the calm brother shows the small key to a busy boy from the hostess  ",obl,y
+"a intelligent grandfather throws the happy father the small toy of a man  ",nmod,n
+"the calm grandfather throws the soft book to the dog from a kind father  ",obl,y
+"the kind waitress throws the key of a mother to a happy father  ",obl,y
+"a tired dog gives the large pen to the dog from the kind hostess  ",obl,y
+"a busy grandmother gives the small chair to the happy uncle of the hostess",nmod,n
+"a tall lady shows the large chair to the hostess from a short hostess  ",obl,y
+"a busy waiter gives the soft ball to the mother's focused and focused father  ",obl,y
+"the tired man gives the waitress's hard ball to a calm lady  ",obl,y
+"the calm woman gives the soft book to the calm cat from the sad waiter  ",obl,y
+"the focused sister gives the large book from the boy to a sad girl  ",obl,y
+"a busy uncle gives the gentleman's large key to the short host  ",obl,n
+"a intelligent dog shows the gentleman's tired waiter a large key  ",obj,n
+"the focused grandmother gives the soft chair to focused hostess of a brother  ",nmod,n
+"the calm grandmother shows the short mother a grandmother's soft toy  ",obj,y
+"the short uncle gives the aunt's hard pen to a happy sister  ",obl,n
+"a kind woman throws the large toy and the key to a boy  ",obl,n
+"the tall grandmother gives the hard chair to the cat from the focused uncle  ",obl,y
+"a focused uncle throws the hard ball and the key to a father  ",obl,n
+"a short brother gives the soft ball from the dog to a sad waiter  ",obl,y
+"a tired woman gives a soft ball to the man's short and focused cat ",obl,y
+"the calm sister throws the hard chair to a waiter's busy father  ",obl,y
+"a busy boy shows the large pen to the lady's happy and busy cat  ",obl,y
+"the busy mother gives the soft toy to the intelligent aunt from a gentleman  ",obl,y
+"a focused sister shows the ball of a lady to the intelligent uncle  ",obl,y
+"the happy mother shows the tall aunt the brother's large book  ",nmod,y
+"a focused girl throws the waiter's focused and kind hostess a soft chair  ",obj,n
+"the short brother throws the father's busy and tall host a hard book  ",obj,n
+"a focused sister throws the hard book to busy brother of the father  ",nmod,n
+"the busy uncle gives the hard pen to the woman from the tired sister  ",obl,y
+"a busy waitress throws the dog's hard chair to a tired uncle  ",obl,n
+"the short waiter throws the hard pen to the busy father from the short sister  ",obl,y
+"the busy aunt throws the gentleman's kind father the soft chair  ",obj,n
+"the focused girl shows the large key from the grandmother to a sad uncle  ",obl,y
+"a short uncle throws the busy hostess a large book of a cat  ",nmod,n
+"a kind host gives the brother's tired father the hard book  ",obj,y
+"the kind father shows the chair of a grandfather to the tall aunt  ",obl,y
+"a kind dog throws the busy gentleman a soft ball of the aunt  ",nmod,n
+"a intelligent lady throws a soft toy and the chair to the cat  ",obl,n
+"the busy brother shows the hard pen to kind mother of a father  ",nmod,n
+"the short woman gives the hard book to the focused uncle from the host  ",obl,y
+"the busy dog throws the hard key to the sister's busy and short grandmother  ",obl,y
+"the calm dog shows the large chair to a lady from a tired lady  ",obl,y
+"a happy grandmother throws the soft book to tall waiter of a gentleman  ",nmod,n
+"a happy brother shows the uncle's intelligent and focused waiter a hard ball  ",obj,n
+"a tired lady gives the small book to the waiter's calm father  ",obl,y
+"a short hostess gives the hard toy to the brother's tired dog  ",obl,y
+"a sad uncle shows the small ball to a hostess from a short cat  ",obl,y
+"the happy grandmother gives the short brother of a hostess the large book  ",obj,n
+"the happy aunt throws the hard ball to the kind waitress from the brother  ",obl,y
+"a busy grandmother gives the large toy from a uncle to a sad mother  ",obl,y
+"a sad girl shows the soft ball to a waiter's focused father  ",obl,y
+"the short dog shows the small book to a boy's sad brother  ",obl,y
+"the tall dog throws a large pen to the woman  ",obl,n
+"a tall host gives the waitress's tall cat the small key  ",obj,n
+"the calm dog gives the grandfather's intelligent and kind waitress the soft ball  ",obj,n
+"the tired aunt gives the pen of a waitress to a focused waitress  ",obl,n
+"a short grandfather shows the short lady a large pen of the hostess  ",nmod,n
+"the busy grandfather gives the dog's hard pen to a happy dog  ",obl,n
+"a busy man throws the intelligent gentleman the dog's soft ball  ",obj,y
+"the busy waitress shows the small pen to a cat's focused hostess  ",nmod,y
+"the kind boy shows the host's large ball to a focused dog  ",obl,n
+"a focused sister gives the small ball to a focused gentleman from a woman  ",obl,y
+"the calm grandmother shows a soft book and the ball to the boy  ",obl,n
+"a calm father shows the large toy to the waiter  ",obl,n
+"the happy waitress gives the kind grandfather a uncle's small book  ",nmod,y
+"the kind grandmother the soft chair to the grandfather's intelligent dog",nmod,y
+"a focused uncle gives the hard book to a calm man from the uncle  ",obl,y
+"the calm sister gives the hard book to the mother's intelligent and calm host",obl,y
+"a tired woman gives the hard ball to the short host from the short host  ",obl,y
+"the sad gentleman shows a hard chair to the aunt of the tired grandmother",nmod,y
+"a focused sister gives the soft toy from the uncle to the sad gentleman  ",obl,y
+"the intelligent host gives the dog's tall and kind cat the soft chair  ",obj,y
+"the calm host throws a hard key to the woman's calm and short host",obl,y
+"a busy brother shows a hard chair and a toy to the grandmother  ",obl,n
+"the tall woman throws the hard key to a father from a tall woman  ",obl,y
+"a short gentleman shows the hard ball to a girl from a short hostess  ",obl,y
+"the sad cat gives the ball of a brother to the tired grandmother  ",obl,y
+"a tired father shows the tall hostess the mother's hard pen  ",nmod,y
+"the busy sister gives the mother's focused brother the soft book  ",obj,n
+"a tired father throws the soft key to the man's sad uncle  ",nmod,y
+"a calm father gives the small ball to the focused cat from a busy boy  ",obl,y
+"a happy woman shows the short dog a brother's small pen  ",obj,y
+"the busy mother throws a large key and the chair to a hostess  ",obl,b
+"a short woman throws the soft ball to the uncle's short and tall grandmother  ",obl,y
+"a busy host gives the large chair from the cat to a calm cat  ",obl,y
+"the short gentleman gives the father's hard toy to the tall man  ",obj,n
+"the kind uncle gives the soft toy to short grandfather of the man  ",obl,n
+"a sad waitress gives a small toy to the waiter  ",obj,n
+"the busy dog shows the tired sister a lady's large pen  ",nmod,y
+"the busy aunt throws the small pen from the hostess to the tall brother  ",obl,y
+"the happy lady gives the kind dog the hard toy of a mother  ",nmod,n
+"a tired waiter gives the small ball to the boy  ",obl,n
+"a tired waiter throws the tall hostess a large toy of a lady  ",nmod,n
+"a focused cat gives the large key to calm aunt of a grandmother  ",nmod,n
+"the happy woman gives the book of the man to a tall waitress  ",obl,y
+"the calm gentleman shows a large book to the host  ",obl,n
+"a kind man shows the brother's small pen to the focused host  ",obl,n
+"a kind waitress throws the hard toy from the hostess to the focused brother  ",obl,y
+"a sad woman gives the soft ball and the toy to a sister  ",obl,y
+"the kind brother gives the small book to the waitress from the busy mother  ",obl,y
+"a focused waitress shows the calm uncle of a boy the small book  ",obj,y
+"the tall woman shows the small chair to the busy uncle from the grandfather  ",obl,y
+"a sad waitress throws the tired grandmother a hard chair of the cat  ",nmod,n
+"a calm uncle shows the small book to the lady from the tired man  ",obl,y
+"the intelligent grandfather throws the man's tired waiter the small ball  ",obj,n
+"a sad waitress shows the hard toy from a boy to a kind waiter  ",obl,y
+"the calm host gives the small book to the girl  ",obl,n
+"the intelligent girl throws the hard book to the host  ",obl,n
+"the short grandmother throws the lady's soft ball to the calm aunt  ",obl,n
+"a tired woman shows the busy sister of a aunt a large chair  ",obj,n
+"the tall hostess gives the hard pen and the key to the gentleman  ",obl,n
+"the focused woman gives the short waitress a soft toy of the sister  ",obj,n
+"a busy woman throws the large chair from the host to the kind waitress  ",obl,y
+"the happy mother gives the man's busy sister a large ball  ",obj,n
+"the tall brother gives the focused dog a gentleman's soft toy  ",nmod,y
+"a tired sister shows the short man the lady's hard chair  ",nmod,y
+"a short cat throws the gentleman's happy and calm grandfather the hard ball  ",obj,n
+"the intelligent waiter shows the soft key to the tired woman from a happy hostess  ",obl,y
+"a calm waiter gives the key of a waiter to a intelligent girl  ",obl,y
+"a intelligent woman throws the hard key to a waitress's tired and short father  ",obl,y
+"a tall man throws the happy waiter a dog's large key  ",nmod,y
+"a busy hostess shows the short dog the waiter's soft pen  ",nmod,y
+"a tired grandmother gives a large toy and the pen to a brother  ",obl,n
+"the tall uncle throws the small pen to a short dog from a dog  ",obl,y
+"a tall father gives the soft toy to the dog's tall and busy grandfather  ",nmod,y
+"a busy brother throws the small chair from the father to a calm lady  ",obl,y
+"a intelligent host throws the soft chair from the cat to a tired grandfather  ",obj,n
+"the calm man shows the kind uncle of the mother a soft key  ",obj,n
+"a tired grandfather throws the brother's short and busy sister the large toy  ",obj,n
+"the focused grandmother throws the large toy to the sad aunt of a brother",nmod,n
+"the tall waitress throws the small pen to a girl's calm waiter  ",nmod,y
+"the calm cat throws the large book to kind grandfather of the uncle  ",nmod,n
+"a busy host gives the hard toy to a grandfather's tired and calm host  ",obl,y
+"a tired uncle shows a soft toy to the sad cat of the girl",nmod,n
+"a tall mother shows the large ball to the tall father of the man",nmod,n
+"the calm grandfather shows the uncle's short grandfather the small key  ",obj,n
+"the busy host shows the soft toy to the lady's busy and busy host  ",obl,y
+"a tall lady throws the small key to a cat from the short host  ",obl,y
+"a happy waitress gives the happy uncle a soft toy of a brother  ",nmod,y
+"a busy dog gives a hard chair to a tired host from a tired host and a sister  ",obl,y
+"the busy woman throws the focused lady and cat the ball  ",obj,n
+"a tall girl throws a large toy from a calm girl to a happy dog  ",nmod,y
+"the short lady gives a intelligent boy a soft pen of a busy dog  ",obl,y
+"the calm hostess gives a hard pen from a focused waitress to the intelligent lady  ",obl,y
+"the busy grandmother throws a hard key from the tall and tired girl to the busy grandfather  ",obl,y
+"the busy woman throws the large toy to the busy grandmother of a sad and intelligent grandmother  ",nmod,y
+"a intelligent mother throws a calm aunt a large pen of a focused and intelligent man  ",nmod,y
+"a tired cat throws the soft toy from the busy mother to the focused girl  ",obl,y
+"the short woman gives a calm sister the uncle's toy  ",nmod,y
+"the kind grandmother gives a short man a hard book  ",obj,y
+"the busy sister gives a busy cat of the focused girl the soft key  ",obj,n
+"a busy girl shows the soft pen from a busy and tired gentleman to the calm gentleman  ",obl,y
+"a busy cat throws a lady a hard book and ball  ",obj,y
+"the calm woman shows a large pen to tall grandmother of a short brother  ",nmod,y
+"the short mother throws a large key from the calm aunt to a busy sister  ",obl,y
+"a kind hostess shows a soft book of the tall and intelligent cat to the calm brother  ",obl,n
+"the waitress that is calm shows the hostess a toy  ",obj,n
+"the focused grandmother shows a focused mother of the busy gentleman a soft key  ",obj,n
+"the happy girl gives the calm boy the small toy of the short and tall girl  ",nmod,y
+"the gentleman shows the chair to the aunt that is focused",obl,y
+"a short mother gives a small ball from a calm and short grandmother to a short lady  ",obl,y
+"a tired sister gives a soft pen of a short and tired lady to the focused boy  ",obl,n
+"the calm aunt gives the focused girl a large ball of a busy girl  ",nmod,y
+"a girl that is short shows a woman the pen  ",obj,n
+"the happy boy gives the sad man the aunt's pen  ",nmod,y
+"the boy that is short gives the key to the brother  ",obl,n
+"the tired waiter shows the tall man a small pen  ",obj,y
+"a host that is calm shows the woman the ball  ",obj,y
+"a focused father gives the intelligent sister the boy's key  ",nmod,y
+"the busy hostess gives the busy lady a soft ball  ",obj,y
+"the tired girl throws the hard ball from the short waitress to a tall boy  ",obl,y
+"the focused grandmother throws a busy girl and aunt the toy  ",obj,n
+"a kind mother throws the focused grandfather the soft pen of a calm brother  ",nmod,y
+"the girl that is tired shows the book to the cat  ",obl,y
+"a aunt gives the ball to the sister that is calm",obl,y
+"the busy gentleman gives a tired brother the cat's pen  ",nmod,n
+"a kind sister gives a soft chair to a busy hostess from the focused and calm sister  ",obl,y
+"the short sister throws a busy lady the soft toy of the busy and tired lady  ",nmod,y
+"a intelligent woman throws the cat a soft toy and toy  ",obj,y
+"the waiter that is happy gives a waiter the ball  ",obj,n
+"a busy cat gives the soft toy from the tall waiter and cat to a tall woman  ",obl,y
+"a tired lady throws a hard book from the busy uncle to a girl  ",obl,y
+"a calm mother throws the hard key to the calm uncle from the happy and sad waitress  ",obl,y
+"the busy girl shows the tall waitress of a focused grandmother the soft chair  ",obj,n
+"the busy waitress throws a large pen of a tall and kind host to the calm man  ",obl,n
+"the focused sister gives the short gentleman the soft toy of the tall mother  ",obj,y
+"the tired cat gives the small pen to the tired sister of a happy and kind lady",nmod,y
+"a calm lady gives the large chair to tired grandmother of the happy father  ",nmod,y
+"the sad cat shows the focused father a soft toy of the short and focused hostess  ",nmod,y
+"the busy aunt throws a soft key from the calm brother and aunt to the tall hostess  ",obl,y
+"the short lady gives the hard toy to the tall cat from the calm and calm lady  ",obl,y
+"a happy hostess gives a short waiter a large pen  ",obj,y
+"a tall girl shows the calm uncle of a tall father the soft toy  ",obj,n
+"the boy gives the waitress that is calm a ball  ",obj,n
+"a tall uncle shows a tired father a soft chair  ",obj,n
+"a short girl shows a cat the large ball and key  ",obj,n
+"a short woman gives a small pen to tall aunt of the busy and tired aunt  ",nmod,y
+"a tired grandmother gives a large toy of calm gentleman to calm grandmother  ",obl,y
+"a short aunt throws the small chair and toy to a girl",obl,n
+"a man shows the toy to the waitress that is sad",obl,y
+"a tall grandmother gives the small key to tall aunt of a intelligent and tired brother  ",nmod,y
+"the tall sister shows the soft pen from a kind uncle to the intelligent brother  ",obl,y
+"the father that is focused shows the pen to the mother  ",obl,y
+"the calm aunt gives the calm cat a small key  ",obj,y
+"a tall girl shows a tall grandmother the soft toy of a calm hostess  ",nmod,y
+"the busy uncle gives a cat a soft book and ball  ",obj,y
+"the short waitress gives a hard book from a happy and short boy to a focused father  ",obl,y
+"a mother throws the toy to the hostess that is calm",obl,y
+"a happy lady shows the large toy to the waiter of a busy and happy girl",nmod,y
+"the busy grandmother throws the large pen to sad aunt of the tired and happy dog  ",nmod,y
+"the focused cat shows a hard toy from a short father to the waitress  ",obl,y
+"a intelligent girl gives a small toy to tired waiter of the kind woman  ",nmod,y
+"a short cat shows the tall brother the soft pen of a sad and short uncle  ",nmod,y
+"the short sister gives a large ball of a sad and kind mother to a intelligent dog  ",obl,n
+"the busy waitress shows the small chair from a happy host and brother to a focused brother  ",obl,y
+"a calm father gives the calm hostess a grandfather's pen  ",nmod,y
+"a tall waitress gives a soft ball to short uncle of a tired and short grandmother  ",nmod,y
+"the uncle throws a key to the girl that is busy",obl,y
+"the waitress that is tall gives a ball to a uncle  ",obl,n
+"a tired aunt throws the large ball to the busy grandmother from the calm and happy man  ",obl,y
+"a busy gentleman gives the aunt a large book and key  ",obj,y
+"a focused boy shows the aunt a small ball and key  ",obj,y
+"the busy girl throws the small chair to tired grandfather of the short and short dog  ",nmod,y
+"a sad girl throws the small ball to focused father of a short and tall father  ",nmod,y
+"a kind girl gives the small book to short hostess of a tired and focused woman  ",nmod,y
+"a kind lady gives the large ball to kind hostess of the focused and kind sister  ",nmod,y
+"the kind hostess shows the soft chair to short mother of the busy and tired grandmother  ",nmod,y
+"the boy shows the key to a mother that is sad",obl,y
+"the happy mother shows a hard key from a calm uncle to the focused host  ",obl,y
+"a tall lady throws a soft book to the tall father of the focused woman ",nmod,y
+"a sad gentleman gives the lady the hard ball and ball  ",obj,y
+"a intelligent cat throws a calm cat a small book of a kind grandmother  ",nmod,y
+"a tired father gives a tall waitress a hard ball  ",obj,y
+"the busy girl throws a hard key from a focused brother to the girl  ",obl,y
+"a tall woman gives a calm brother of the tall uncle a small chair  ",obj,y
+"a calm aunt shows the short waitress a large key of the busy and tired waitress  ",nmod,y
+"the focused mother shows a small book from a focused cat to the woman  ",obl,y
+"a busy girl throws a tired hostess of a short and busy grandmother the small toy  ",obj,n
+"the focused woman shows the sad waitress a small book of a short waiter  ",nmod,y
+"a focused grandfather shows the happy girl the girl's chair  ",nmod,n
+"a calm aunt gives the tired mother the soft ball of a calm and kind woman  ",nmod,y
+"the happy dog shows the short hostess and grandfather a toy  ",obj,n
+"a kind grandmother shows the small ball from a intelligent dog and host to the tall lady  ",obl,n
+"a calm dog shows a intelligent grandmother the grandfather's chair  ",nmod,n
+"the tall mother shows a kind uncle of the intelligent and focused waitress a soft toy  ",nmod,n
+"the kind cat gives the soft ball from a kind hostess to the dog  ",obl,y
+"the calm lady throws a hard book from the focused girl to the girl  ",obl,y
+"the intelligent father gives the mother a large pen and ball  ",obj,y
+"a short sister shows a mother a small key and pen  ",obj,y
+"the tired grandfather gives a busy waiter the small ball  ",obj,y
+"a short aunt shows the happy cat a small toy of a kind and focused cat  ",nmod,y
+"the calm grandmother throws a soft toy to tall host of a sad and kind grandfather  ",nmod,y
+"a tall father throws the focused aunt and cat a toy  ",obj,n
+"a busy woman shows a hard chair to sad uncle of a happy and tired hostess  ",nmod,y
+"a waitress shows a waitress that is focused a ball  ",obj,n
+"a calm grandmother throws the large key of the kind and kind brother to a short mother  ",obl,n
+"a calm hostess throws the small toy from a intelligent and tired uncle to a sad brother  ",obl,y
+"the tall woman shows the hard key to the happy waitress of a calm and short sister",nmod,y
+"the busy cat shows a focused host of the intelligent and tired brother a small toy  ",obj,n
+"the busy hostess shows a soft ball from a short and intelligent waitress to a focused host  ",obl,y
+"a tall cat throws a hard chair from a busy lady to the busy hostess  ",obl,y
+"the kind woman shows a calm sister of a focused gentleman a soft ball  ",obj,y
+"the busy waitress shows the large key of the calm and busy mother to a intelligent aunt  ",obl,n
+"the focused cat gives a pen to the tall waitress and gentleman",obl,y
+"a short grandmother gives a hard toy to the busy brother of the focused and busy gentleman  ",nmod,y
+"the calm lady gives the happy man the small ball of the happy and intelligent brother  ",nmod,y
+"a father that is tall shows a book to the waiter  ",obj,y
+"a intelligent sister gives the small ball to the short sister of a busy and focused aunt",nmod,y
+"a sister that is sad throws the waitress a pen  ",obj,y
+"the host that is sad shows the pen to a mother  ",obl,y
+"the busy hostess throws the calm waitress of the busy uncle the hard toy  ",obj,n
+"a gentleman that is short throws the pen to the hostess  ",obl,y
+"a busy lady throws a small chair of tall lady to focused man  ",obl,y
+"a intelligent sister gives a small toy from a kind woman and brother to a short grandmother  ",obl,y
+"a calm brother shows a calm aunt and man the pen  ",obj,n
+"the busy woman shows a tall woman the soft pen of a calm father  ",nmod,y
+"the short cat shows the soft chair from the calm father and host to a tall girl  ",obl,y
+"the tired waitress throws a soft ball from the busy mother and brother to a tired boy  ",obl,y
+"the busy lady shows a focused sister of a focused and intelligent grandfather the small book  ",obj,n
+"a kind lady shows a small pen to the kind grandfather from a intelligent and busy dog  ",obl,y
+"the short hostess gives the soft chair of busy hostess to tired dog  ",obl,y
+"the busy waitress shows a aunt the hard toy and chair  ",obj,y
+"the short mother throws the focused waitress the soft ball  ",obj,y
+"the lady that is tall gives a book to the uncle  ",obl,y
+"a short aunt throws a calm mother a soft pen of the busy and tired girl  ",nmod,y
+"the focused grandmother throws a kind waiter the small key of the intelligent host  ",nmod,y
+"a focused girl gives a intelligent host a host's book  ",nmod,n
+"a focused aunt shows a soft ball of tall brother to the tall sister  ",obl,y
+"the focused gentleman throws the aunt the hard book and ball  ",obj,y
+"the intelligent woman throws a focused aunt a small toy of a busy waitress  ",nmod,y
+"a busy grandmother throws the short waiter of the tall aunt the small chair  ",obj,n
+"the calm lady throws the small book to calm hostess of the calm and intelligent sister  ",nmod,y
+"the focused hostess shows a tall uncle of a tall hostess the soft key  ",obj,y
+"a tired lady shows the small ball from the calm dog to the short hostess  ",obl,y
+"the focused mother throws the soft chair to the busy waitress of a tall father  ",obl,y
+"a busy girl gives the calm woman and boy the key  ",obj,n
+"the mother that is calm shows a hostess a book  ",obj,y
+"the happy waitress gives a soft chair from the tall host to the focused cat  ",obl,y
+"a tall lady throws a sad aunt a host's book  ",nmod,n
+"the tired lady shows the small book from a tired host to the cat  ",obl,y
+"a tall grandmother shows the busy waiter of the focused and sad boy the small chair  ",obj,n
+"a kind waiter throws a focused waiter the large toy  ",obj,y
+"the tall waiter shows the calm mother and grandmother the ball  ",obj,n
+"a short waitress shows a calm host of a calm gentleman a large ball  ",obj,n
+"a kind waitress throws a soft toy of intelligent mother to focused dog  ",obl,y
+"the intelligent hostess throws a calm boy a hard ball of the tired sister  ",nmod,y
+"a tired girl throws the hard chair to the kind waitress of a short waiter",nmod,y
+"a busy hostess shows the soft key from a short gentleman to the mother  ",obl,y
+"a gentleman gives the chair to the uncle that is short ",obl,y
+"a focused grandmother gives a soft toy from the sad father to the tired dog  ",obl,y
+"the tired waitress gives a large chair from a busy woman to a grandfather  ",obl,y
+"a intelligent woman gives the hard toy of busy gentleman to short waitress  ",obl,y
+"the focused man throws a tall mother and waiter a key  ",obj,n
+"the focused girl shows a hostess the large key and key  ",obj,y
+"the intelligent sister throws the small ball to intelligent mother of a tired lady  ",nmod,y
+"the tall mother throws a small ball from the focused gentleman to the busy father  ",obl,y
+"the busy hostess shows a kind lady the host's chair  ",nmod,n
+"the tired hostess gives the large toy from the tall mother to a tall uncle  ",obl,y
+"a short mother shows the busy waitress and brother the ball  ",obj,n
+"the busy cat gives a small ball to focused father of a tired woman  ",nmod,y
+"a gentleman that is tall shows a aunt the ball  ",obj,n
+"a woman shows the chair to a mother that is busy",obl,y
+"a focused hostess gives the small key to focused grandfather of a happy and busy father  ",nmod,y
+"a short sister throws the large key from a short hostess to the girl  ",obl,y
+"the intelligent sister shows a small chair from the intelligent and sad boy to the happy brother  ",obl,y
+"a busy woman shows a small toy to the intelligent cat of the tall and busy grandfather",nmod,y
+"the host that is short throws a waitress the key  ",obj,n
+"the woman that is calm throws a chair to a lady  ",obl,n
+"a tired grandmother gives a soft pen of the focused and focused brother to a tall sister  ",obl,n
+"a man throws the book to a girl that is calm",obl,y
+"the tall mother shows the calm waitress a large pen of the happy lady  ",nmod,y
+"the waitress that is busy throws the waitress a pen  ",obj,n
+"the kind woman gives a hard key from a calm sister to the girl  ",obl,y
+"a intelligent girl shows the small key to the sad brother of the short hostess ",obl,y
+"the gentleman shows a book to a lady that is calm",obl,y
+"a dog that is calm gives a book to a waiter  ",obl,y
+"the tall aunt gives a tired woman a soft chair of a short and happy grandfather  ",nmod,y
+"the focused lady throws the large pen to short grandfather of a focused waitress  ",nmod,y
+"the intelligent girl gives a large key to short uncle of the tall and tall host  ",nmod,y
+"the kind girl gives the soft chair to short waitress of a sad host  ",nmod,y
+"the gentleman gives the toy to the waitress that is tired",obl,y
+"a short girl throws a key to the focused waitress of a tall woman",nmod,y
+"a calm mother shows a small chair from the kind cat and grandfather to a tired waiter  ",obl,y
+"a busy father shows the focused girl a hard chair  ",obj,y
+"a focused sister gives the calm grandmother a soft pen of a intelligent girl  ",nmod,y
+"the focused man gives the sister the large key and key  ",obj,y
+"the focused waitress shows the tired cat the large ball of the busy dog  ",nmod,y
+"a tired woman throws a hard key of kind gentleman to calm dog  ",obl,y
+"the intelligent mother gives a soft toy of a happy mother to a calm father",obl,y
+"the woman gives a pen to the waitress that is kind",obl,y
+"the tired sister gives the soft key from a focused boy and gentleman to the focused mother  ",obl,y
+"the tall hostess gives the small toy from a tall and happy host to a busy grandmother  ",obl,y
+"a calm grandmother shows the sad girl and lady the key  ",obj,n
+"a busy grandmother throws the soft pen to tall grandmother of the happy hostess  ",nmod,y
+"a grandfather gives the chair to the sister that is kind",obl,y
+"a kind sister shows the large pen to tired mother of the focused mother  ",nmod,y
+"the busy uncle throws a grandmother the large key and chair  ",obj,y
+"the focused girl gives the short uncle the soft chair of the busy aunt  ",nmod,y
+"the tired host throws a happy brother a mother's key  ",nmod,y
+"the intelligent cat gives the large key to tired mother of the focused grandfather  ",nmod,y
+"a tall mother shows the large book to tired dog of the busy and focused sister  ",nmod,y
+"the sister that is busy gives a grandmother the toy  ",obj,n
+"the short sister shows a grandmother a small pen and toy  ",obj,y
+"the calm woman gives the short grandmother and grandmother the chair  ",obj,n
+"a busy waitress shows the small ball of a short and tired hostess to the happy boy  ",obl,n
+"a sad lady shows a large chair from the tired and calm brother to a tired aunt  ",obl,y
+"the calm cat throws a small toy from the busy mother and father to the tall aunt  ",obl,y
+"a sister that is short throws a waitress the key  ",obj,n
+"a woman that is focused shows a toy to a uncle  ",obl,y
+"a tall lady shows the hard pen to intelligent father of a tall uncle  ",nmod,y
+"a tired host gives a short cat the woman's key  ",nmod,y
+"the intelligent waitress shows the kind cat the hard book of the busy brother  ",nmod,y
+"the tired aunt throws the small toy from the intelligent lady to a cat  ",obl,y
+"a happy aunt gives the small ball to the tall dog from a busy and calm waiter  ",obl,y
+"a intelligent waitress gives the large pen of a happy and focused brother to the short hostess  ",obl,n
+"a sad waitress shows a short uncle the sister's key  ",obj,y
+"a intelligent lady gives the hard toy to tall hostess of a calm waitress  ",nmod,y
+"the calm woman gives a soft chair from a busy brother and woman to the tired dog  ",obl,y
+"a calm hostess throws a soft pen from a short waiter to a busy brother  ",obl,y
+"the tired sister shows the hard ball of a calm and busy dog to a sad uncle  ",obl,n
+"the happy hostess shows the lady a soft ball and key  ",obj,y
+"the sad sister gives a hard pen of the intelligent and calm host to the short boy  ",obl,n
+"a short mother gives the busy waiter a hard pen of the busy and short dog  ",nmod,y
+"a father that is tall shows a host a book  ",obj,n
+"a focused sister gives a small book to the kind aunt of a short man",nmod,y
+"the intelligent cat gives the chair to a tired aunt and cat  ",obl,y
+"a focused mother throws a large key from the happy dog to the girl  ",obl,y
+"the dog that is focused shows a ball to a girl  ",obl,y
+"a tall grandmother shows the small ball to the tall dog from a short and short sister  ",obl,y
+"a focused waitress throws the tired woman the hard ball of the sad and busy brother  ",nmod,y
+"a focused gentleman gives a calm mother the sister's ball  ",nmod,y
+"a tall man gives the calm brother the girl's toy  ",obj,y
+"a busy lady throws a hard toy to the sad man from the calm and tired grandfather  ",obl,y
+"the kind woman gives the a soft toy to the short father of the tall and sad cat ",nmod,y
+"the focused mother gives the small ball of short dog to short sister  ",obl,y
+"a sad sister gives the soft book from a focused host to the grandfather  ",obl,y
+"a tired hostess gives the hard book to tall host of the tired and calm grandmother  ",nmod,y
+"the focused waitress throws the hard book from a busy and busy waitress to the tired girl  ",obl,y
+"the calm woman gives the soft chair from the kind brother and sister to a busy waiter  ",obl,y
+"the calm lady shows a small key from the intelligent and calm cat to the calm lady  ",obl,y
+"a tired brother throws the calm cat and woman a book  ",obj,n
+"a busy cat gives a hard pen to busy waitress of a busy dog  ",nmod,y
+"a calm woman throws the small ball from the happy father to a woman  ",obl,y
+"a hostess that is short shows a chair to a hostess  ",obl,y
+"a calm lady gives the small pen to tall uncle of a busy and short hostess  ",nmod,y
+"the kind hostess throws a small pen of tall sister to focused brother  ",obl,y
+"the busy hostess throws the large toy from the intelligent lady and boy to the tall dog  ",obl,y
+"a tall aunt shows the hostess a hard ball and toy  ",obj,y
+"a calm hostess throws the large pen of the calm and tall boy to the busy uncle  ",obl,y
+"the short grandmother shows the small toy of a focused and focused aunt to the happy father  ",obl,y
+"a calm boy gives the calm lady the hard ball  ",obj,y
+"a kind uncle gives a key to the focused hostess and the dog  ",obl,y
+"the happy girl shows a key to the focused brother and a woman  ",obl,y
+"a sad hostess throws the pen to a focused waitress  ",obl,y
+"the focused waiter gives the calm waitress the soft key of a gentleman that is tall  ",nmod,y
+"a focused boy gives a soft toy to a calm host of the grandfather that is tall",obj,n
+"the focused dog throws a busy father a hard ball of the grandmother that is focused  ",nmod,y
+"the busy grandmother gives the large toy to the waitress's focused uncle  ",obl,y
+"a focused mother throws a large ball to the sad waitress of the grandmother that is intelligent ",nmod,y
+"a focused sister throws a small pen to tired host of a man that is focused  ",nmod,y
+"the focused mother throws a intelligent brother a small chair of a lady that is tired  ",nmod,y
+"a tall woman gives a tall and focused man the book  ",obj,n
+"a calm grandmother shows the ball to a focused and focused dog  ",obl,y
+"a tall waiter throws the ball to a focused and tall lady  ",obl,y
+"the sad father gives a ball to a focused and tall woman  ",obl,y
+"a focused cat gives a small toy to busy host of the grandmother that is tired  ",nmod,y
+"a calm girl shows a pen to a focused brother  ",obl,y
+"a focused uncle shows a tall dog a small book of the sister that is busy  ",nmod,y
+"the sad uncle shows the sad and focused girl the key  ",obj,n
+"the focused hostess gives a happy grandmother the book of the short mother that is tall",nmod,y
+"the tall gentleman gives a ball to the focused hostess and the brother  ",obl,y
+"a calm woman shows a focused and focused uncle the pen  ",obj,n
+"a focused grandmother shows a lady's focused grandfather a small book  ",obj,n
+"the short dog shows a focused and focused man a chair  ",obj,n
+"the tall brother throws a chair to the focused waiter  ",obl,y
+"a kind father shows a toy to the tall and focused grandmother",obl,y
+"a focused lady shows the soft key to the intelligent cat of the man that is intelligent",nmod,y
+"a focused lady gives the busy father the pen of a busy girl that is calm",nmod,y
+"the focused lady shows pen of the focused boy that is kind to a busy gentleman  ",obl,n
+"a busy woman has carried a large pen for_many_years  ",advmod,y
+"a kind grandmother has kicked a soft toy more_often  ",advmod,y
+"a tall brother has pushed a hard book more_often  ",advmod,y
+"the calm grandfather has pushed a soft book more_often  ",advmod,y
+"a calm waiter has pushed a soft ball for_many_years  ",advmod,y
+"a tired father has kicked the small book more_often  ",advmod,y
+"the tired grandmother has carried the soft chair more_often  ",advmod,y
+"a sad gentleman gives the small chair to a tired mother from the calm dog and a waitress  ",obl,y
+"a happy gentleman gives the hard toy to the short grandmother from the focused mother and the mother  ","obl ",y
+"the busy gentleman shows the large pen to the happy cat from a tall hostess and the aunt  ",obl,y
+"a tall girl throws a large toy to a calm woman from a short waitress and the boy  ",obl,y
+"the calm girl gives the soft book to the tall uncle from the kind host and a dog  ",obl,y
+"a intelligent girl throws a small chair to a tired waitress from the focused lady and a grandmother  ",obl,y
+"the tired girl gives a tall man the host's soft and large pen  ",obj,y
+"a tall dog gives a girl's soft and soft key to the happy cat  ",obl,n
+"a tall cat gives the calm aunt the grandfather's small and small pen  ",nmod,y
+"a short grandmother gives a sad waiter the uncle's small and large key  ",nmod,y
+"a focused aunt gives a tired gentleman the cat's large and large key  ",nmod,y
+"a happy waiter gives a busy uncle a brother's soft and large key  ",obj,y
+"a focused mother gives the man's large and large toy to a focused dog  ",obl,y
+"a busy hostess gives the tired woman the gentleman's large and large pen  ",obj,y
+"the short aunt gives the sister's small and soft key to the short mother  ",obl,n
+"the busy hostess gives the focused father the woman's soft and large pen  ",obj,y
+"a calm grandfather gives the short gentleman the dog's small and hard toy  ",obj,y
+"a kind sister gives a sister's small pen to a calm and calm cat  ",obl,y
+"a calm dog gives a busy uncle the girl's small and small ball  ",obj,y
+"a busy uncle gives a tall girl the hostess's soft and soft key  ",obj,y
+"the focused uncle gives the woman's large and small toy to the busy sister  ",obl,n
+"a short aunt gives a focused grandfather a boy's large and soft chair  ",obj,y
+"a focused boy gives a short dog the host's hard and large pen  ",obj,y
+"a calm aunt gives the dog's small and large key to a sad boy  ",obl,n
+"the tired brother gives a waiter's large and small toy to a tall sister  ",obl,n
+"a calm boy gives a gentleman's hard and large ball to a busy lady  ",obl,n
+"a tired waiter gives the happy hostess a brother's large and hard chair  ",obj,y
+"the intelligent gentleman gives a boy's hard and small pen to a tall uncle  ",obl,n
+"the short brother gives a short woman the dog's small and large key  ",obj,y
+"a intelligent boy gives a waitress's small pen to the intelligent brother  ",obl,y
+"a calm sister gives a father's hard chair to the busy and intelligent hostess  ",obl,y
+"a kind grandmother shows the small toy to a tired boy from a short mother and the brother  ",obl,y
+"a busy grandmother gives a soft chair to a sad uncle from a busy dog and a host  ",obl,y
+"a happy grandmother shows a hard book to the busy uncle from a tired cat and the hostess  ",obl,y
+"the happy sister shows a soft toy to short brother of the aunt that is short  ",nmod,y
+"a tall waiter throws the ball to a tall and happy lady",obl,y
+"the happy sister shows the busy sister a hard ball of a girl that is focused  ",nmod,y
+"the happy waiter throws a ball to the happy man  ",obl,y
+"a intelligent dog gives the chair to the happy aunt and a aunt  ",obl,y
+"a kind waiter throws the chair to a happy and calm girl  ",obl,y
+"a tired dog shows the pen to a happy boy and a boy  ",obl,y
+"a happy grandmother shows a large toy to tall hostess of the grandmother that is tired  ",nmod,y
+"the sad brother throws the chair to the happy aunt and a gentleman  ",obl,y
+"the short grandmother shows a focused and happy grandfather the book  ",obj,n
+"the busy waiter throws a chair to a happy grandfather and a cat  ",obl,y
+"the happy woman throws a calm mother of a mother that is busy a large key  ",obj,n
+"the happy boy shows a hard book to the short brother of a grandmother that is focused",nmod,y
+"a happy brother gives the large key to busy cat of a gentleman that is busy  ",nmod,y
+"the happy grandfather shows the large toy to the happy cat of the aunt that is happy",nmod,y
+"a happy lady shows the tall mother a soft pen of a cat that is tall  ",nmod,y
+"a calm mother throws a happy and happy boy the book  ",obj,n
+"the tall aunt gives the aunt the hard and large key  ",obj,y
+"a calm and tired hostess is kicking a hard ball  ",obj,n
+"the tall and intelligent grandfather is pushing the hard ball  ",obj,n
+"a calm girl gives the host the hard and large pen  ",obj,y
+"a short and calm uncle is carrying the hard ball  ",obj,n
+"the focused and tired boy is carrying a hard book  ",obj,n
+"the tall father throws the man the hard and large toy  ",obj,y
+"a intelligent and focused grandmother is pushing the hard chair  ",obj,n
+"the focused and tired aunt is kicking the hard chair  ",obj,n
+"the focused cat gives the girl a hard and small ball  ",obj,y
+"the busy and tired man is pushing the hard toy  ","obj ",n
+"the happy brother gives a cat a hard and small toy  ",obj,y
+"the kind and tall dog is kicking the hard book  ",obj,n
+"the intelligent man shows the aunt the hard and hard key  ",obj,y
+"the short host gives a large key to the kind cat from the focused waitress and a hostess  ",obl,y
+"a short hostess throws a soft chair to a focused girl from the sad boy and the brother  ",obl,y
+"a short father throws a small key and a book to a waiter  ",obl,n
+"the busy waiter throws a tired sister the woman's hard toy  ",nmod,y
+"a busy hostess throws a hard chair from the uncle to a calm sister  ",obl,y
+"a sad sister shows a focused hostess the grandmother's hard pen  ",nmod,y
+"the sad grandfather gives a large toy to the gentleman from the tall uncle  ",obl,y
+"the busy waiter shows a book of a lady to a tired lady  ",obl,y
+"the sad sister shows a calm girl a small key of the woman  ",nmod,n
+"a focused grandmother throws a short waiter a brother's hard key  ",nmod,y
+"the happy grandfather gives a soft ball to kind hostess of the cat  ",nmod,n
+"a focused dog gives a small toy to a tired boy from the tall sister  ",obl,y
+"the focused waiter shows a large book to the gentleman from a focused mother  ",obl,y
+"a tall woman throws a key of the hostess to a focused waitress  ",obl,y
+"a focused grandmother shows a small ball to a uncle  ",obl,y
+"the intelligent lady throws a girl's tired father a large book  ",obj,n
+"the busy waitress throws a small key to focused mother of the woman  ",nmod,n
+"a tired uncle shows a large ball to the man's tired father  ",obl,y
+"a calm man gives a hard ball to the woman's intelligent hostess ",nmod,y
+"a tall mother shows a soft toy to the busy lady from a waiter  ",obl,y
+"a calm lady gives a soft pen and a chair to a dog  ",obl,n
+"the tall waitress shows a short uncle the small pen of a man  ",nmod,n
+"the calm boy throws a hard toy to busy dog of a girl  ",nmod,n
+"a calm uncle throws a busy cat the large toy of a waiter  ",nmod,n
+"the kind father shows a small toy to a tall gentleman from a calm brother  ",obl,y
+"the calm lady throws a soft ball to the busy gentleman from the focused girl  ",obl,y
+"a focused sister shows the small book and a ball to a grandmother  ",obl,n
+"the kind waiter shows a small pen to a host  ",obl,n
+"the sad uncle shows a small toy to a brother  ",obl,n
+"a kind brother gives a hard key to the waiter's focused and happy grandmother  ",obl,y
+"a intelligent brother gives a hard chair to a kind hostess from the kind woman  ",obl,y
+"the focused gentleman throws a small book to the sad girl from the lady  ",obl,y
+"a busy waitress gives a toy of a waitress to the short cat  ",obl,y
+"the tired brother throws a soft key to a happy host from a lady  ",obl,y
+"the calm waiter gives a hostess a father's large ball  ",nmod,y
+"a busy man throws a soft book to the sad woman from a calm gentleman  ",obl,y
+"a calm mother shows a father's large toy to a tall dog  ",obl,y
+"a calm aunt shows a pen of the hostess to a busy sister  ",obl,y
+"a tall gentleman shows a happy grandfather the father's soft key  ",nmod,y
+"a busy gentleman throws a soft chair from the father to a tall girl  ",obl,y
+"the calm host throws a soft key to the boy's calm and busy grandfather  ",obl,y
+"the short sister throws a father the host's small pen  ",nmod,y
+"the short aunt shows a hard book and a toy to the aunt  ",obl,n
+"a focused father throws a busy cat of the waiter the large pen  ",obj,n
+"a short hostess throws a calm dog of a sister a soft key  ",obj,n
+"the intelligent waiter throws a soft ball to a girl's tall father  ",nmod,y
+"a focused aunt shows a host's tall waiter a hard chair  ",obj,n
+"a busy father throws a tired gentleman the soft pen of a dog  ",nmod,n
+"the short host throws a small book to a mother's short aunt  ",nmod,y
+"the calm father throws a hard ball to a short lady from a uncle  ",obl,y
+"a tired grandmother gives a cat's sad hostess a chair  ",obj,n
+"the intelligent sister throws a grandmother's busy and tall hostess the large chair  ",obj,n
+"a tired waitress throws a hard chair to the aunt's tired grandfather  ",nmod,y
+"a busy lady gives a large key to kind mother of the waitress  ",nmod,n
+"the tall boy shows a grandfather's large book to a calm host  ",obl,y
+"a kind father throws a hostess's tall and tired father the small toy  ",obj,n
+"the busy woman shows a soft key to the woman from a happy waitress  ",obl,y
+"the tired woman gives a soft pen to the dog's short and tired waitress  ",nmod,y
+"the focused waitress gives a hard chair to the busy mother of a lady  ",nmod,n
+"the focused hostess gives a dog's small toy to a short dog  ",obl,n
+"a short girl gives a soft key to a father from a busy boy  ",obl,y
+"the busy man throws a focused waitress a hard book of the father  ",nmod,y
+"a calm girl gives the soft key and a chair to the host  ",obl,n
+"the tired gentleman shows a hard ball to the man's busy and tired grandmother  ",nmod,y
+"a tall host throws a tired host the toy of a sister  ",nmod,n
+"the tall waitress shows the soft book to a intelligent and kind hostess  ",obl,y
+"the intelligent man gives a man's hard toy to the busy waiter  ",obl,y
+"a calm father shows a soft chair to the mother's sad and happy father  ",nmod,y
+"a happy girl shows a hard book to a waiter's focused and calm host",nmod,y
+"the calm cat gives a soft toy to the cat from the focused boy  ",obl,y
+"a tall waiter throws a hard chair to a tired uncle from the boy  ",obl,y
+"a calm waitress throws the soft book to a woman  ",obl,n
+"a tall mother shows a hard key to the focused girl from the tall cat  ",obl,y
+"the busy girl throws a short girl the ball of the hostess",nmod,y
+"the busy cat throws a small ball from a host to a focused waitress  ",obl,y
+"the calm aunt gives a large pen to a waitress's focused dog  ",nmod,y
+"the focused cat shows a soft pen to a focused aunt from the grandmother  ",obl,y
+"the calm waitress gives a large toy to a girl's short and tall cat",obl,y
+"a calm mother throws a focused mother the hard ball of a girl  ",nmod,y
+"a kind dog throws a busy sister the boy's small key  ",nmod,y
+"the busy brother gives a girl's busy hostess a small key  ",obj,n
+"the focused host gives a large key to the tall girl from a sad sister  ",obl,y
+"a intelligent boy throws a waitress's toy to a focused woman  ",obl,y
+"a tired aunt throws a tired waitress a brother's hard pen  ",nmod,y
+"a tired mother gives a father's busy and calm aunt a hard key  ",obj,n
+"the focused aunt shows a soft pen to a mother  ",obl,n
+"a tired girl gives a boy's hard pen to a focused brother  ",obl,y
+"the busy host shows a large ball to the short boy from a busy woman  ",obl,y
+"the tired sister throws the busy hostess a father's small book",nmod,y
+"the short father shows a waitress's calm and intelligent host a small ball  ",obj,n
+"the happy grandfather gives a soft ball to the short host from a lady  ",obl,y
+"a kind waitress throws a hard ball to intelligent sister of a grandmother  ",nmod,n
+"the tired dog throws a large key to the focused boy from the tall hostess  ",obl,y
+"the intelligent brother throws a large book from the aunt to the kind girl  ",obl,y
+"a kind man shows a focused woman the waiter's hard ball  ",nmod,y
+"the calm waitress throws a short host of the host the small pen  ",obj,n
+"a tall father throws a toy of the sister to the tall grandmother  ",obl,y
+"a focused father gives a hostess's kind and sad brother the large key  ",obl,y
+"the kind girl throws a hard key to a short cat from the girl  ",obl,y
+"a calm host throws a soft chair from a cat to a tall waitress  ",obl,y
+"the tired uncle shows a hard ball to the tired hostess from the short waitress  ",obl,y
+"the sad dog throws a man's hard chair to a intelligent grandfather  ",obl,y
+"a calm grandmother throws a large book to the boy's short and sad father  ",obl,y
+"the focused aunt throws a large key and a key to a sister  ",obl,n
+"the happy grandmother shows a hard toy to the girl's focused and tired grandfather  ",nmod,y
+"the tall father throws the small book to a host  ",obl,n
+"a focused brother throws a hard key to a host from the busy gentleman  ",obl,n
+"the short grandmother throws a girl's focused and calm hostess a small toy  ",obj,n
+"a kind mother throws a soft chair to the aunt's kind and kind host  ",obl,y
+"a tall waiter shows a toy of a grandfather to the tired brother  ",obl,y
+"a intelligent mother shows a soft book to the happy grandfather from the sister  ",obl,y
+"a tall man gives a hard chair to a waitress  ",obl,n
+"the tired sister throws a toy of a hostess to the happy waitress  ",obl,y
+"the calm dog shows a hostess's tall and calm grandfather the soft key  ",obj,n
+"the short girl throws a calm waiter of a man a soft toy  ",obj,n
+"the kind waitress gives a hard book to a lady's busy cat  ",nmod,y
+"a tall lady throws a short gentleman a soft toy of the man  ",nmod,n
+"a tired cat throws the large chair and a book to a waiter  ",obl,n
+"a tired grandmother throws a large chair to short cat of a brother  ",nmod,n
+"the busy waiter shows a small chair to the girl's focused sister",obl,n
+"the tired dog throws a hard book to the boy's tall and tired sister",nmod,y
+"the tall father throws a large key to the lady's calm dog",nmod,y
+"a tired girl throws a large ball to a father's short mother ",nmod,y
+"the calm lady shows a calm man the dog's large chair",nmod,y
+"a tired man throws a dog's short waitress a hard toy  ",obj,n
+"a focused hostess gives a small pen to the grandmother's calm waitress  ",obl,y
+"a sad waitress shows a hard chair to focused brother of the girl  ",nmod,n
+"a busy brother throws a large chair to a waiter's intelligent sister",nmod,y
+"the busy waiter gives the small ball to the short grandmother of the man  ",nmod,n
+"a tall waiter gives a happy grandmother the dog's soft book",nmod,y
+"the focused gentleman throws a small chair to a hostess  ",obl,n
+"the tired grandfather gives a hard ball to a dog's focused waiter  ",nmod,y
+"the busy girl gives the large pen and a chair to the grandmother  ",obl,n
+"the sad boy shows a hard toy to the grandmother's kind dog",nmod,y
+"the busy grandfather throws a small book to the lady's busy brother  ",nmod,y
+"a tired lady shows a grandfather's intelligent and busy hostess a soft toy  ",obj,n
+"the focused girl shows a toy of the host to the busy hostess  ",obl,y
+"the short brother shows a small key to a short boy from the grandfather  ",obl,y
+"the focused grandfather shows a intelligent gentleman the father's small key  ",nmod,y
+"a busy uncle gives a busy host a large key of a hostess  ",nmod,n
+"a busy grandmother shows the small book to a short father of a grandmother",nmod,y
+"a short uncle throws the hard pen to a waiter  ",obj,n
+"the intelligent man throws the hard pen to a boy's tired and calm aunt ",nmod,y
+"a happy hostess throws a tall gentleman a mother's large toy",nmod,y
+"the tired girl gives a soft key to a tall grandfather from the hostess  ",obl,y
+"the sad grandfather shows a soft key to a sister from the happy cat  ",obl,y
+"the focused waiter throws a ball of a brother to a busy girl  ",obl,y
+"the busy host gives a kind grandfather a man's soft ball  ",nmod,y
+"a tired grandmother shows the large toy to a focused mother of the host ",nmod,y
+"a focused dog throws a hard toy to a busy grandfather from the tall father  ",obl,y
+"a focused lady shows a chair of a man to the happy waiter  ",obl,y
+"the happy grandfather gives a brother's tired brother a large pen  ",obj,n
+"the tall uncle throws a hard pen to a uncle's tall mother  ",nmod,y
+"a focused woman shows a pen of the hostess to a kind boy  ",obl,y
+"a tall dog throws a soft book to intelligent host of a grandmother  ",nmod,n
+"the calm grandmother shows the large ball to the calm waitress of the man ",nmod,n
+"a happy uncle throws a soft chair to a waitress's focused and tall father  ",nmod,y
+"the happy mother gives the hard pen and a book to the waitress  ",obl,n
+"a sad boy shows a grandfather's hard book to a calm father  ",obl,n
+"the busy uncle gives a tall girl a soft book of a lady  ",nmod,n
+"a short sister gives a small chair to a busy grandmother from a tired uncle  ",obl,y
+"a focused cat shows a soft toy to the grandfather's busy and focused waitress  ",nmod,y
+"a short man gives a hard pen to intelligent sister of a gentleman  ",nmod,n
+"the tired waiter shows a small key to a tired brother from a boy  ",obl,y
+"the focused hostess gives a uncle's large key to a kind man  ",obl,y
+"a tall grandfather gives a large chair to the uncle from the kind boy  ",obl,y
+"the short grandfather shows a large key to a tall brother from the cat  ",obl,y
+"the kind sister shows a mother's intelligent and tired waiter a hard key  ",obj,n
+"the tall aunt gives a hard pen to the tall cat from the tall father  ",obl,y
+"the intelligent gentleman throws a small key to a girl from a intelligent father  ",obl,y
+"the tired boy shows a short gentleman the hard ball of a sister  ",nmod,n
+"a sad dog throws the small key to a woman  ",obl,n
+"a busy uncle gives a hard ball to short host of the gentleman  ",nmod,n
+"a kind hostess gives a soft toy from a uncle to the focused boy  ",obl,y
+"a kind woman throws the chair of the father to the busy aunt  ",obl,y
+"a kind mother gives a soft toy to the brother's calm cat  ",nmod,y
+"the happy grandfather throws a hard key to a aunt's tall hostess",nmod,y
+"a tired woman throws a woman's focused and calm grandmother a soft pen  ",obj,n
+"the busy lady throws a large book from a hostess to the intelligent man  ",obl,y
+"a busy hostess throws a soft pen to the man's sad dog  ",nmod,y
+"a busy grandfather shows a large toy and a book to a girl  ",obl,n
+"a tall woman throws a cat's tall host the hard chair  ",obj,n
+"the focused aunt shows a large book to a hostess from a busy host  ",obl,y
+"a happy aunt throws a hard ball and a pen to a woman  ",obl,n
+"the focused man shows a hard book to the cat from the tired sister  ",obl,n
+"the busy hostess shows a calm dog a father's hard chair  ",nmod,y
+"a focused host throws a hard pen to focused father of a host  ",nmod,n
+"a busy man throws a hard toy to a host's short sister  ",nmod,y
+"a focused waitress shows the large toy and a pen to a grandfather  ",obl,n
+"a tired boy throws a host's book to the kind lady  ",obl,y
+"a busy aunt gives a soft pen to a focused man from a lady  ",obl,y
+"the short man shows a hard chair to a aunt's short and focused waitress  ",nmod,y
+"the busy aunt gives a lady's happy waiter a small key  ",obj,n
+"the calm girl shows a small key to calm aunt of a aunt  ",nmod,n
+"the busy girl gives a hard pen to the busy aunt from the sister  ",obl,y
+"a short father shows a small chair to a tired brother from the grandmother  ",obl,y
+"a intelligent host gives a focused mother of a man the soft key  ",obj,n
+"the calm host throws a focused lady the lady's small book  ",nmod,y
+"the tired boy gives a soft key to the tired host from the kind host  ",obl,y
+"a tired sister throws a hard pen and a toy to a lady  ",obl,n
+"a tall woman gives a ball of the man to a tired aunt  ",obl,n
+"a short brother shows a aunt a sister's hard book",nmod,y
+"the sad cat throws a chair of a uncle to a tired hostess  ",obl,y
+"the calm uncle gives a soft toy to a girl  ",obl,n
+"the short man gives a focused host of a lady a soft book  ",obj,n
+"a intelligent grandfather throws the key to a kind grandmother  ",obl,y
+"the intelligent hostess throws a small pen to the waitress from a focused gentleman  ",obl,y
+"the tired gentleman gives a girl's small ball to the tired boy  ",obl,y
+"the intelligent waitress shows a large ball and a key to the woman  ",obl,n
+"the tired uncle throws a small toy to a sister  ",obl,n
+"a focused gentleman throws a small chair to a intelligent woman from the kind mother  ",obl,y
+"a tired uncle shows a soft pen to calm grandfather of a sister  ",nmod,n
+"a tall uncle gives a boy's calm sister the small key  ",obj,n
+"a tall aunt shows a hard ball to a waiter's short and tall mother  ",obl,y
+"a sad lady throws a hard pen to the girl from a tall gentleman  ",obl,y
+"a focused waiter shows a small chair to a intelligent father from the short waiter  ",obl,y
+"the focused boy throws a large ball to a focused gentleman from a host  ",obl,y
+"the intelligent boy throws a soft toy to a cat from the short uncle  ",obl,y
+"the calm brother throws a soft ball to the sad boy from a calm dog  ",obl,y
+"a tall cat shows a large book to busy dog of the gentleman  ",nmod,n
+"the calm gentleman shows the small pen to a waitress  ",obl,n
+"a calm woman gives a chair of the man to the short girl  ",obl,y
+"a focused man gives the small chair to a grandmother  ",obl,y
+"the focused grandmother shows a soft chair to the lady's tall and tired uncle  ",nmod,y
+"a sad grandfather shows a soft book to the lady's short waiter  ",nmod,y
+"a intelligent aunt throws a toy to the intelligent cat  ",obl,y
+"a tired lady gives the busy and intelligent aunt the pen  ",obj,n
+"the intelligent uncle shows the short waiter the hard chair of a hostess that is short  ",nmod,y
+"the focused girl shows a key to a intelligent and kind grandfather  ",obl,y
+"the sad waitress shows a ball to the intelligent and sad grandmother  ",obl,y
+"a intelligent grandmother shows the large chair to the tall aunt of the waitress that is tired ",nmod,y
+"a intelligent girl gives a intelligent uncle a small book of a mother that is tired  ",nmod,y
+"a intelligent aunt throws a calm host of a grandmother that is busy a soft chair  ",obj,n
+"a intelligent gentleman throws the hard book to kind father of the waitress that is happy  ",nmod,y
+"a intelligent grandfather gives a large pen to the calm dog of the boy that is calm",nmod,y
+"a tired brother gives a toy to a intelligent lady and a boy  ",obl,y
+"the sad grandmother gives a focused and intelligent mother the key  ",obj,n
+"the tall host throws a chair to a intelligent gentleman  ",obl,y
+"a sad gentleman gives the book to a intelligent and tired boy  ",obl,y
+"a sad grandfather has more_often kicked the hard key  ",advmod,n
+"the tall grandmother has for_many_years kicked the large key  ",advmod,n
